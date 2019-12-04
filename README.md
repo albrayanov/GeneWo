@@ -1,7 +1,6 @@
 # GeneWo
-GeneWo is a word generator that can be used  in live projects using Spout.
-It will consist of 2 parts
-* A word displaying module (currently working)
-* Text generating module (currently writing text manually bit will be extended to use LSTM-based algorithm or RelGAN for automatic generation)
+GeneWo is a word generator the shows one of the ways in which computers process human language. It can be used as part of live projects using Spout (for example see https://vimeo.com/373615615)
 
-For video of mixing it with other bits of my art you can watch https://vimeo.com/373615615
+
+
+
