@@ -1,5 +1,7 @@
 # Tools
-Collection of live visual performance tools created in Processing
+- GeneWo - word generator
+- le_gene - letter generator
+- UntopiaDynamod - OSC controller for UE4 project
 
 
 
