@@ -1,7 +1,6 @@
-# Tools
-- GeneWo - word generator
-- le_gene - letter generator
-- UntopiaDynamod - OSC controller for UE4 project
+# DNA Tools
+- Image to DNA Encoder - creates DNA encoded as image/fasta file/binary csv file out of any RGB image input
+
 
 
 
